@@ -1,0 +1,5 @@
+# Luxembourg camera data
+
+The regional camera snapshot contains a machine-readable database derived from OpenStreetMap. © OpenStreetMap contributors. The database and its adaptations are available under the Open Database License 1.0. The snapshot records the upstream replication timestamp. [OpenStreetMap copyright](https://www.openstreetmap.org/copyright) · [Open Database License 1.0](https://opendatacommons.org/licenses/odbl/1-0/) · [Geofabrik Luxembourg extract](https://download.geofabrik.de/europe/luxembourg.html)
+
+The Administration des ponts et chaussées publishes the official Luxembourg camera positions under CC0. The classification records identify their sources. [PCH inventory](https://data.public.lu/en/datasets/pch-emplacement-des-radars-fixes/) · [Place de l’Étoile](https://gouvernement.lu/fr/actualites/toutes_actualites/communiques/2021/07-juillet/19-radar-place-etoile.html) · [Hollerich](https://gouvernement.lu/fr/actualites/toutes_actualites/communiques/2022/11-novembre/28-radars-hollerich.html)
